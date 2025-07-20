@@ -395,8 +395,7 @@ function App() {
 
         {/* Footer */}
         <div className="mt-8 text-center text-gray-500 text-sm">
-          <p>Adaptive Multilingual Programming Language with WORA Capabilities</p>
-          <p>Supporting Tamil, English, Malayalam, Telugu, Hindi, and Sanskrit</p>
+          <p>Adaptive Multilingual Programming Language</p>
         </div>
       </div>
     </div>
